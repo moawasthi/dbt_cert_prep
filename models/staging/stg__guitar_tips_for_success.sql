@@ -1,0 +1,1 @@
+SELECT * FROM dbt_cert_prep.source.guitar_tips_for_success
