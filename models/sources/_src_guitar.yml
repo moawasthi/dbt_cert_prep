@@ -1,0 +1,9 @@
+sources:
+  - name: source
+    database: dbtStudy  
+    schema: source  
+    tables:
+      - name: pieces
+      - name: techniques
+      - name: piece_techniques
+      - name: practice_routines
