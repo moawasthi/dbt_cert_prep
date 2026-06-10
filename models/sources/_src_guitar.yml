@@ -1,6 +1,6 @@
 sources:
   - name: source
-    database: dbtStudy  
+    database: dbtStudy
     schema: source  
     tables:
       - name: pieces
